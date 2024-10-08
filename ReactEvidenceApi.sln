@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactEvidenceApi", "ReactEvidenceApi\ReactEvidenceApi.csproj", "{D706E684-BC4E-4EE7-B67C-CB367D4E68E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D706E684-BC4E-4EE7-B67C-CB367D4E68E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D706E684-BC4E-4EE7-B67C-CB367D4E68E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D706E684-BC4E-4EE7-B67C-CB367D4E68E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D706E684-BC4E-4EE7-B67C-CB367D4E68E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3D0B09-80F0-47DE-B6C3-0134DD93E7ED}
+	EndGlobalSection
+EndGlobal

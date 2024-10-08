@@ -1,0 +1,6 @@
+@ReactEvidenceApi_HostAddress = http://localhost:5014
+
+GET {{ReactEvidenceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
